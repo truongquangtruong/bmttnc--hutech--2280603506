@@ -1,3 +1,3 @@
 print("Hello,World")
-print(" My name is Trung")
+print(" My name is: TRUONG")
 print("HUTECH University") 
